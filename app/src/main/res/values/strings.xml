@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting">setting</string>
+    <string name="item_3">item 3</string>
+    <string name="item_2">item 2</string>
+    <string name="item_1">item 1</string>
+    <string name="sample_email">userAccount@gmail.com</string>
+    <string name="username">username</string>
+    <string name="rtl_navdrawer">Rtl NavDrawer</string>
+</resources>
